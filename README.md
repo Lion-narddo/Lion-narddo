@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Leo 😁
+## Oi, eu sou o Leo 😁
 
  <div>
   <a href="https://github.com/lion-narddo">

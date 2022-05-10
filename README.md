@@ -13,7 +13,7 @@
  
  <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lion-narddo=anuraghazra&layout=compact)](https://github.com/lion-narddo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lion-narddo&layout=compact)](https://github.com/lion-narddo/github-readme-stats)
  
 <div> 
  <a href="https://discordapp.com/users/973366582015295530" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

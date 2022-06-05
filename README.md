@@ -1,4 +1,4 @@
-## Oi, eu sou o _Leo_ 😁
+## Oi, eu sou o __Leo__ 😁
 
  <div>
   <a href="https://github.com/lion-narddo">
